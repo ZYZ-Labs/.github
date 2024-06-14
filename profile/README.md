@@ -1,12 +1,21 @@
-## Hi there 👋
+# ZYZ-Labs
 
-<!--
+## 宗旨：
 
-**Here are some ideas to get you started:**
+#### 摸鱼、打机、喝茶
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 团队介绍：
+### 人员-废物开发工程师三名：
+- #### Z：废物开发工程师1号
+
+  - 主Android开发
+  - 其他会一点
+
+- #### Y：废物开发工程师2号
+
+  - 全栈
+
+- #### Z：废物开发工程师3号
+
+  - 主Java
+  - 其他会一点
